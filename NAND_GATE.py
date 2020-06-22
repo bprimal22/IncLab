@@ -1,5 +1,5 @@
 """         Simulation/Testing code for Nand_gate
-            4-4-20
+            Last Updated:         6-22-20
             Author: BP Rimal
  """
 
